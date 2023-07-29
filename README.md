@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyj-2000&show_icons=true&icon_color=CE1D2D&text_color=ADFF2F&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyj-2000&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi, I'm Zhou Yingjie 👋
 
@@ -6,7 +6,7 @@
 - 🌱 Research interests: 3D Quality Assessment & Digital Human
 - 💬 Email: zyj2000@sjtu.edu.cn
 - 👯 If you find our work useful, please give us stars!! Thank you!!!
-718096
+
 <!--
 **zyj-2000/zyj-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 CE1D2D
