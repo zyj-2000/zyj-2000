@@ -7,6 +7,9 @@
 - 💬 Email: zyj2000@sjtu.edu.cn
 - 👯 If you find our work useful, please give us stars!! Thank you!!!
 
+### Hignlights 💡
+✨ [18th "Challenge Cup"](https://github.com/zyj-2000/CUMT_2D_PhotoSpeaker) We won TOP PRIZE in the "the open competition mechanism to select the best candidates" Special Competition in 18th "Challenge Cup" National Science and Technology College of extra-curricular academic competition.
+
 <!--
 **zyj-2000/zyj-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 CE1D2D
