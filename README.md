@@ -3,7 +3,7 @@
 ### Hi, I'm Yingjie Zhou 👋
 
 - 🔭 PhD Student at Shanghai Jiaotong University
-- ⚡ B.E. Degree at China University of Mining and Technology
+- 📑 B.E. Degree at China University of Mining and Technology
 - 🌱 Research interests: 3D Quality Assessment & Digital Human
 - 💬 Email: zyj2000@sjtu.edu.cn
 - 👯 If you find our work useful, please give us stars!! Thank you!!!
