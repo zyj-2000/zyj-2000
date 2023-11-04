@@ -3,12 +3,13 @@
 ### Hi, I'm Yingjie Zhou 👋
 
 - 🔭 PhD Student at Shanghai Jiaotong University
+- ⚡ B.E. Degree at China University of Mining and Technology
 - 🌱 Research interests: 3D Quality Assessment & Digital Human
 - 💬 Email: zyj2000@sjtu.edu.cn
 - 👯 If you find our work useful, please give us stars!! Thank you!!!
 
 ### Hignlights 💡
-✨ [18th "Challenge Cup"](https://github.com/zyj-2000/CUMT_2D_PhotoSpeaker) We won TOP PRIZE in the "Open Competition Mechanism to Select the Best Candidates" Special Competition in 18th "Challenge Cup" National Science and Technology College of extra-curricular academic competition.
+✨ [第十八届挑战杯“揭榜挂帅”专项赛全国特等奖](https://siee.cumt.edu.cn/info/1074/5001.htm)
 
 <!--
 **zyj-2000/zyj-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
