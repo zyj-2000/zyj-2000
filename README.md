@@ -8,7 +8,7 @@
 - 💬 Email: zyj2000@sjtu.edu.cn
 - 👯 If you find our work useful, please give us stars!! Thank you!!!
 
-### Hignlights 💡
+### Highlights 💡
 ✨ [第十八届挑战杯“揭榜挂帅”专项赛全国特等奖](https://siee.cumt.edu.cn/info/1074/5001.htm)
 
 <!--
